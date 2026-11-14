@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lottery-research-lab"
+version = "0.1.0"
+description = "Transparent lottery research, diagnostics and walk-forward baselines for SSQ and DLT"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.setuptools]
+packages = ["lottery_lab"]
