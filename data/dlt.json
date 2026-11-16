@@ -6,7 +6,7 @@
       "primary": {
         "source": "primary",
         "url": "https://raw.githubusercontent.com/gudaoxuri/lottery_history/main/data/dlt.json",
-        "retrieved_at": "2026-11-15T20:13:32.149592+00:00",
+        "retrieved_at": "2026-11-16T23:40:01.108615+00:00",
         "sha256": "57a4177c2a2a72418e1341eb24ea2b88de6e93f9586915de189ad2834b96c2f1",
         "count": 274,
         "latest": "2026-11-14"
@@ -14,15 +14,15 @@
       "backup": {
         "source": "backup",
         "url": "https://raw.githubusercontent.com/Justdoitfor/my-lottery-data/main/data/dlt.json",
-        "retrieved_at": "2026-11-15T20:13:32.360537+00:00",
-        "sha256": "3306a93ae6d93116deccf050fda61fbda4a207c543d511c59c5a6948d411639e",
-        "count": 2948,
-        "latest": "2026-11-14"
+        "retrieved_at": "2026-11-16T23:40:01.337901+00:00",
+        "sha256": "e151a12f6058e488ad0d77c5020ede20d5dde701dc13ca8677b0b2628a3f9fe3",
+        "count": 2949,
+        "latest": "2026-11-16"
       }
     },
-    "retrieved_at": "2026-11-15T20:13:32.389132+00:00",
-    "count": 2948,
-    "latest": "2026-11-14",
+    "retrieved_at": "2026-11-16T23:40:01.355125+00:00",
+    "count": 2949,
+    "latest": "2026-11-16",
     "cross_check": {
       "status": "pass",
       "matched": 274,
@@ -44250,6 +44250,21 @@
       "back": [
         2,
         6
+      ]
+    },
+    {
+      "issue": "26131",
+      "date": "2026-11-16",
+      "front": [
+        2,
+        11,
+        18,
+        19,
+        29
+      ],
+      "back": [
+        4,
+        7
       ]
     }
   ]
