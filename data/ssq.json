@@ -6,26 +6,26 @@
       "primary": {
         "source": "primary",
         "url": "https://raw.githubusercontent.com/gudaoxuri/lottery_history/main/data/ssq.json",
-        "retrieved_at": "2026-11-24T23:47:18.964098+00:00",
-        "sha256": "a67023eb2f5ce63cb8dcf49ce1c8271a8f57feffdbd23ff7d7d87260bf119a74",
-        "count": 281,
-        "latest": "2026-11-22"
+        "retrieved_at": "2026-11-26T23:33:04.146208+00:00",
+        "sha256": "1e552838c8cc5ee893e4c320ce5d57283d729ccdb4ac287e6fdd938f85a2a9fe",
+        "count": 282,
+        "latest": "2026-11-24"
       },
       "backup": {
         "source": "backup",
         "url": "https://raw.githubusercontent.com/Justdoitfor/my-lottery-data/main/data/ssq.json",
-        "retrieved_at": "2026-11-24T23:47:19.168806+00:00",
-        "sha256": "78587e92754e8707cfe2f7285ce7251b857c110517a899b4aab584ff8246eb52",
-        "count": 3532,
-        "latest": "2026-11-24"
+        "retrieved_at": "2026-11-26T23:33:04.346221+00:00",
+        "sha256": "e5fac7a2b2e5f7668a1a224ae5bd09a38711ee8c7ba070824264b2637baf6ad1",
+        "count": 3533,
+        "latest": "2026-11-26"
       }
     },
-    "retrieved_at": "2026-11-24T23:47:19.186875+00:00",
-    "count": 3532,
-    "latest": "2026-11-24",
+    "retrieved_at": "2026-11-26T23:33:04.369613+00:00",
+    "count": 3533,
+    "latest": "2026-11-26",
     "cross_check": {
       "status": "pass",
-      "matched": 281,
+      "matched": 282,
       "conflicts": 0,
       "examples": []
     },
@@ -53010,6 +53010,21 @@
       ],
       "back": [
         8
+      ]
+    },
+    {
+      "issue": "26136",
+      "date": "2026-11-26",
+      "front": [
+        9,
+        11,
+        22,
+        27,
+        30,
+        33
+      ],
+      "back": [
+        5
       ]
     }
   ]
